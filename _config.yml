@@ -14,10 +14,11 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
+  Study : "study"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Study : "study"
+
 
 # --- Logo --- #
 
