@@ -1,6 +1,6 @@
 ---
 layout: post
-title: study  
+title: define node.js module  
 subtitle: node.js module
 tags: [node.js, module]
 ---
