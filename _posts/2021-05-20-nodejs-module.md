@@ -23,7 +23,7 @@ core module
 >fs.writeFileSync('new','Hello Node.js!');
 >파일 안에 입력하거나 없으면 새로 생성 후 입력
 
->node package manager
+>node package manager  
 >npm install (서드파티모듈 이름)
 >
 >package-lock.json이 생기는데 
