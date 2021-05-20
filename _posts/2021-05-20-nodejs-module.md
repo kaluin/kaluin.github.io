@@ -17,7 +17,7 @@ core module
 >
 >let fileList = fs.readdirSync('.');
 >console.log(fileList);
->현재 폴더의 파일의 이름들을 출력-> '.'
+>현재 폴더의 파일의 이름들을 출력-> '.'  
 >.. -> 이전 폴더 파일 이름 출력 
 >
 >fs.writeFileSync('new','Hello Node.js!');
