@@ -12,6 +12,5 @@ subtitle: 게에에에엑
 후레레레렉
 
 ### 굵게에에엑
+**굵어진다** 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
-[오]
